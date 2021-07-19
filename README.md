@@ -1,2 +1,2 @@
 # quickshell
-Quickly create a custom shell to wotk with your own functions
+Quickly create a custom shell to work with your own functions
